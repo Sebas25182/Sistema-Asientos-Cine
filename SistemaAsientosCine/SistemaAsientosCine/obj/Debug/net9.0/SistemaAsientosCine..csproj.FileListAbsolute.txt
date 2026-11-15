@@ -1,0 +1,15 @@
+C:\Users\Sebas\Sistema-Asientos-Cine\SistemaAsientosCine\SistemaAsientosCine\bin\Debug\net9.0\SistemaAsientosCine..exe
+C:\Users\Sebas\Sistema-Asientos-Cine\SistemaAsientosCine\SistemaAsientosCine\bin\Debug\net9.0\SistemaAsientosCine..deps.json
+C:\Users\Sebas\Sistema-Asientos-Cine\SistemaAsientosCine\SistemaAsientosCine\bin\Debug\net9.0\SistemaAsientosCine..runtimeconfig.json
+C:\Users\Sebas\Sistema-Asientos-Cine\SistemaAsientosCine\SistemaAsientosCine\bin\Debug\net9.0\SistemaAsientosCine..dll
+C:\Users\Sebas\Sistema-Asientos-Cine\SistemaAsientosCine\SistemaAsientosCine\bin\Debug\net9.0\SistemaAsientosCine..pdb
+C:\Users\Sebas\Sistema-Asientos-Cine\SistemaAsientosCine\SistemaAsientosCine\obj\Debug\net9.0\SistemaAsientosCine..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebas\Sistema-Asientos-Cine\SistemaAsientosCine\SistemaAsientosCine\obj\Debug\net9.0\SistemaAsientosCine..AssemblyInfoInputs.cache
+C:\Users\Sebas\Sistema-Asientos-Cine\SistemaAsientosCine\SistemaAsientosCine\obj\Debug\net9.0\SistemaAsientosCine..AssemblyInfo.cs
+C:\Users\Sebas\Sistema-Asientos-Cine\SistemaAsientosCine\SistemaAsientosCine\obj\Debug\net9.0\SistemaAsientosCine..csproj.CoreCompileInputs.cache
+C:\Users\Sebas\Sistema-Asientos-Cine\SistemaAsientosCine\SistemaAsientosCine\obj\Debug\net9.0\SistemaAsientosCine..sourcelink.json
+C:\Users\Sebas\Sistema-Asientos-Cine\SistemaAsientosCine\SistemaAsientosCine\obj\Debug\net9.0\SistemaAsientosCine..dll
+C:\Users\Sebas\Sistema-Asientos-Cine\SistemaAsientosCine\SistemaAsientosCine\obj\Debug\net9.0\refint\SistemaAsientosCine..dll
+C:\Users\Sebas\Sistema-Asientos-Cine\SistemaAsientosCine\SistemaAsientosCine\obj\Debug\net9.0\SistemaAsientosCine..pdb
+C:\Users\Sebas\Sistema-Asientos-Cine\SistemaAsientosCine\SistemaAsientosCine\obj\Debug\net9.0\SistemaAsientosCine..genruntimeconfig.cache
+C:\Users\Sebas\Sistema-Asientos-Cine\SistemaAsientosCine\SistemaAsientosCine\obj\Debug\net9.0\ref\SistemaAsientosCine..dll
