@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemaAsientosCine.")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02e90768ed1665922da9940c81b99a87d9124a0d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30f5b89a0284e8d5c6223f7d9dcba1eba25a8350")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemaAsientosCine.")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemaAsientosCine.")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

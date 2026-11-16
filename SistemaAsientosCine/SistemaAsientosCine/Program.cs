@@ -25,7 +25,7 @@ class Program
             Console.WriteLine("1. Mostrar asientos");
             Console.WriteLine("2. Reservar asiento");
             Console.WriteLine("3. Cancelar reserva");
-            Console.WriteLine("4. Reporte de ventas");
+            Console.WriteLine("4. Reporte de estadísticas");
             Console.WriteLine("5. Salir");
             Console.Write("Seleccione una opción: ");
 
@@ -103,6 +103,8 @@ class Program
                 case "4":
                     int ocupados = 0;
                     int libres = 0;
+                    int totalAsientos = filas * columnas;
+
                     for (int i = 0; i < filas; i++)
                     {
                         for (int j = 0; j < columnas; j++)
@@ -111,10 +113,15 @@ class Program
                             else libres++;
                         }
                     }
-                    Console.WriteLine("\n--- REPORTE DE VENTAS ---");
+
+                    // Cálculo del porcentaje de ocupación
+                    double porcentaje = ((double)ocupados / totalAsientos) * 100;
+
+                    Console.WriteLine("\n--- ESTADÍSTICAS Y REPORTE ---");
                     Console.WriteLine($"Asientos reservados: {ocupados}");
-                    Console.WriteLine($"Asientos libres: {libres}");
-                    Console.WriteLine("-------------------------");
+                    Console.WriteLine($"Asientos disponibles: {libres}");
+                    Console.WriteLine($"Porcentaje de ocupación: {porcentaje}%");
+                    Console.WriteLine("------------------------------");
                     Console.WriteLine("Presione cualquier tecla para continuar...");
                     Console.ReadKey();
                     break;
